@@ -1,6 +1,6 @@
 % FREQUENCY MODULATION
-% MUSTAFA GÜÇLÜ - 05110000994
-% ÝBRAHÝM BATUHAN ÖZTÜRK - 05150000711
+% MUSTAFA GÃœÃ‡LÃœ - 05110000994
+% IBRAHIM BATUHAN Ã–ZTÃœRK - 05150000711
 % Analog Modulation Techniques
 % Ege University EEE Communication Systems Project 
 % May 2016 - GNU GPL v3 Licensed
